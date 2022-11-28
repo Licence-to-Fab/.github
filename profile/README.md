@@ -4,9 +4,14 @@ We aren’t really a design firm or a manufacturer, we aren’t even really a co
 
 We are Licence to Fab, and we’re fabricating the first ever open-source, Hydrogen fueled engine ever made. We hope you join us on our mission to build a cleaner future. 
 
-### Special Thank You to our Sponsors + Supporters
+### Sponsors + Supporters
 Doosan Mobility Innovation (DMI)
 
 MIT Edgerton Center, MITERS, MIT D-Lab
 
 Madhouse Motors (Boston, MA)
+
+### Suppliers
+Ducati
+
+
