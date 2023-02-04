@@ -4,14 +4,3 @@ We aren’t really a design firm or a manufacturer, we aren’t even really a co
 
 We are Licence to Fab, an MIT student team fabricating the first ever open-source, Hydrogen fueled engine ever made. We hope you join us on our mission to build a cleaner future.
 
-### Sponsors + Supporters
-Doosan Mobility Innovation (DMI)
-
-MIT Edgerton Center, MITERS, MIT D-Lab
-
-Madhouse Motors (Boston, MA)
-
-### Suppliers
-Ducati
-
-
